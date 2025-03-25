@@ -1,0 +1,6 @@
+[server]
+allowRunOnSave = false
+disable = true
+
+[build]
+usePrecompiledPillow = true
